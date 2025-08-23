@@ -177,8 +177,8 @@ _이텔릭과 **강조**를 같이 쓸 수 있다_
 
 ```
 
-![증명사진](./../assets/profiles/jian_kim.jpg , '제 증명사진입니다ㅎ')
-![고양이사진](https://mblogthumb-phinf.pstatic.net/MjAyMzAzMDlfMTgy/MDAxNjc4MzI4MTUyMjc0.bslRSzUaTxLxBa2ICQ7IG7DbZbfkd9_lx62B3IFPQDUg.9nourwuRS1277W1AI-bBDBMtLPGmx_MdTuUpgmicAlwg.JPEG.eruriee/2.JPG?type=w800 , '저는 턱시도 냥이가 제일 좋습니다')
+![증명사진](/../assets/profiles/jian_kim.jpg, '제 증명사진입니다ㅎ')
+![고양이사진](https://postimg.cc/BPZQyw26, '저는 턱시도 냥이가 제일 좋습니다')
 
 # 링크
 
